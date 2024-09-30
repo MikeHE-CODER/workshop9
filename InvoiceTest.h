@@ -1,4 +1,5 @@
-// InvoiceTest.h
+#ifndef INVOICETEST_H
+#define INVOICETEST_H
 
 #include <iostream>
 #include "Invoice.h"
@@ -70,3 +71,4 @@ private:
         }
     }
 };
+#endif
